@@ -1,5 +1,5 @@
 # Jeanne's Portfolio
 
-**About Me**
+##About Me
 
 Hello, I am Jeanne (Jay-anne)
