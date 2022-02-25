@@ -1,1 +1,2 @@
-# gsbc-intro-web
+# Jeanne's Portfolio
+
