@@ -2,7 +2,7 @@
 
 ## About Jeanne
 
-Jeanne (Jay-anne) Tejada (Te-ha-da) grew up in the Philippines. She didn't get saved until she came to the United States with her family in 2016. Little did she know that God would allow her to go to Golden State Baptist College. Now, she is a Junior studying a General Major with a Media minor. 
+Jeanne (Jay-anne) Tejada (Te-ha-da) was born and raised in the Philippines. She didn't get saved until she came to the United States with her family in 2016. Little did she know that God would allow her to go to Golden State Baptist College. Now, she is a Junior studying a General Major with a Media minor. 
 
 ## Inspiration
 
@@ -10,4 +10,6 @@ My Youth Pastor introduced me to design when I was a sophomore in highschool. Si
 
 ## My Progress
 
-* [Reading list]
+* [Research website ideas (02/03)]
+* [Create a CSS Style Sheet (02/27)]
+* [Complete Website (03/11)]
