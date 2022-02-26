@@ -10,6 +10,6 @@ My Youth Pastor introduced me to design when I was a sophomore in highschool. Si
 
 ## My Progress
 
-* [Research website ideas (02/03)]
-* [Create a CSS Style Sheet (02/27)]
-* [Complete Website (03/11)]
+* Research website ideas (02/03)
+* Create a CSS Style Sheet (02/27)
+* Complete Website (03/11)
