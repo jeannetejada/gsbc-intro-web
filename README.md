@@ -6,7 +6,7 @@ Jeanne (Jay-anne) Tejada (Te-ha-da) was born and raised in the Philippines. She 
 
 ## Inspiration
 
-My Youth Pastor introduced me to design when I was a sophomore in highschool. Since then, I fell in love with designing graphics and themes for church. The site that I often visit when I need help for inspiration is Igniter Media https://www.ignitermedia.com/title-graphics. This site really helped me when I struggle looking for church graphics.
+My Youth Pastor introduced me to design when I was a sophomore in highschool. Since then, I fell in love with designing graphics and themes for church. The site that I often visit when I need help for inspiration is Igniter Media https://www.ignitermedia.com/title-graphics. This site really helped me when I struggle to look for church graphics.
 
 ## My Progress
 
