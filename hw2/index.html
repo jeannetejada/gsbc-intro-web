@@ -1,17 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>HTML document</title>
-</head>
-<body>
-    <p>Homework 2 - Array of Integers<p>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Homework 2</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
 
- <div id="math"></div>
+    <body style ="background-image: url(https://i.stack.imgur.com/jGlzr.png);">
+        <div class = "topnav">
+        <a class="" href="https://jeannetejada.github.io/gsbc-intro-web/">Home</a>
+        <a class="" href="https://jeannetejada.github.io/gsbc-intro-web/hw1/index.html">HW1</a>
+        <a class="active" href="https://jeannetejada.github.io/gsbc-intro-web/hw2">HW2</a>
+    </div>
+ 
 
-        <script type="text/javascript" src="algorithm.js"></script>
-
-<p id="math">randomNumber</p>
-
-
-</body>
+<!--Figure out how to use ID element for JS and HTML in links -->
+</br>
+<h1>Homework 2</h1>
+</br>
+<h2>Random Number Generator</h2>
+<button onClick="window.location.reload();">Generate Numbers</button>
+<h2>Array of Integer</h2>
+    <p>This is an array of random numbers: </p>
+    <p id = "numbers"> </p>
+<h2>Largest Number</h2>
+<p>The largest number is: </p>
+    <p id = "largest_number"></p>
+<h2>Sum of Numbers</h2>
+    <p>The sum of all these numbers in the array is: </p>
+    <p id = "sum"></p> 
+     <script src="algorithm.js"> </script> 
+    </body>
 </html>
