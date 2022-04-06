@@ -8,6 +8,7 @@
           Times, serif;
     color: White;
     background-color: #E9967A }
+
        ul.navbar {
              list-style-type: none;
     padding: 0;
@@ -16,6 +17,7 @@
     top: 2em;
     left: 1em;
     width: 9em }
+
       h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
@@ -34,6 +36,7 @@
     margin-top: 1em;
     padding-top: 1em;
     border-top: thin dotted }
+
   </style>
 </head>
 
