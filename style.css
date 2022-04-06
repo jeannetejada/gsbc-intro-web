@@ -1,20 +1,40 @@
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'URW Geometric', 'STIX Two Text', Helvetica, Arial, sans-serif;
-    font-style: normal;
-}
+<html>
+<head>
+  <title>My first styled page</title>
+   <style type="text/css">
+  body {
+        padding-left: 11em;
+     font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: White;
+    background-color: #E9967A }
+       ul.navbar {
+             list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+      h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+       ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: blue }
+  a:visited {
+    color: White }
+       address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+  </style>
+</head>
 
-h1 {
-    font-weight: bold;
-    text-align: center;
-}
-
-h2 {
-    font-weight: bolder;
-}
-
-body {
-    font-family: 'STIX Two Text', Georgia, 'Times New Roman', Times, serif;
-    margin-left: auto;
-    margin-right: auto;
-    /* width: 6in; */
-}
+<body>
