@@ -1,15 +1,33 @@
-<!DOCTYPE html>
-<html>
-<body>
+const numbers = [];
 
-<h2>JavaScript Array of Integers</h2>
+for (let i = 0; i <= 100; i++) {
+  numbers[i] = Math.floor(Math.random() * 1000);
+}
+//Formats the numbers
+let nLen = numbers.length;
+let text = "";
 
-<p id="demo"></p>
+for (let i = 0; i < nLen; i++) {
+  text += numbers[i] + ", ";
 
-<script>
-document.getElementById("demo").innerHTML =
-Math.floor(Math.random() * 1000) + 1;
-</script>
+    if (i == 100) {
+      text += numbers[i] + ", and ";
+      }
+    if (i == 100) {
+      text += numbers[i] + ".";
+      }
+  }
+document.getElementById("numbers").innerHTML = text;
 
-</body>
-</html>
+//Sorts the numbers and pops the largest one
+numbers.sort(function (a, b) {return a - b;});
+document.getElementById("largest_number").innerHTML = numbers.pop();
+
+//Adds all the numbers together
+let s = 0;
+let nmLen = numbers.length;
+
+for (let i = 0; i < nmLen; i++) {
+  s = s + numbers[i];
+  }
+document.getElementById("sum").innerHTML = s;
